@@ -56,4 +56,4 @@
         <th>P.</th>
     </tr>
 </table> -->
-<td><table><tr><td>split 1</td><td>split 2</td></tr></table></td> 
+<td><table align="center"><tr><td>split 1</td><td>split 2</td></tr></table></td> 
