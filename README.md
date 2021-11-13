@@ -41,7 +41,7 @@
         </tr>
         </thead>
     </table>
-<table style="width: 100%; margin-top: 10px; font-size: 0.8em;" border="1px">
+<!-- <table style="width: 100%; margin-top: 10px; font-size: 0.8em;" border="1px">
     <tr align="center" >
         <th style="padding:2.5px; width: 10%;" rowspan="2">Item No</th>
         <th style="padding:2.5px; width: 55%;" rowspan="2">DESCRIPTION</th>
@@ -55,4 +55,4 @@
         <th>Rs.</th>
         <th>P.</th>
     </tr>
-</table>
+</table> -->
