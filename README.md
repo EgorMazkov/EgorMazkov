@@ -25,6 +25,7 @@
         </tr>
         <tr>
         <td style="text-align:center;">Philosophers</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Philosophers"> </td>
+        <td style="text-align:center;">Cub3d</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/cub3d"> </td>
         </tr>
     </table>
 </td>
