@@ -7,7 +7,7 @@
 </p>
 <table align="left" style="left: 300px;">
     <thead>
-    <th>
+    <th style="padding:2.5px; width: 10%;">
         <tr>
           <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td>
         </tr>
