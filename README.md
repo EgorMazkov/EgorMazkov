@@ -6,9 +6,6 @@
   </a>
 </p>
 <td>
-    <td align="center">
-        Success project
-    </td>
     <table align="center">
         <tr>
                 <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td>
