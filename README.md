@@ -7,11 +7,9 @@
 </p>
 <table align="left" style="left: 300px;">
     <thead>
-    <th style="padding:300px; width: 50%;">
         <tr>
-          <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td>
+          <th> <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td> </th>
         </tr>
-    </th>
         <tr>
           <td style="text-align:center;">Get_next_line</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/get_next_line"> </td>
         </tr>
