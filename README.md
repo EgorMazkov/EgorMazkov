@@ -5,7 +5,7 @@
     <img src="https://badge42.herokuapp.com/api/stats/ghumbert?darkmode=true&privacyEmail=true"/>
   </a>
 </p>
-<table align="150px" style="width: 300px;">
+<table style="width: 300px; left: 150px;">
     <thead>
         <tr>
           <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td>
