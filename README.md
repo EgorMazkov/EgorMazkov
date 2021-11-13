@@ -5,7 +5,7 @@
     <img src="https://badge42.herokuapp.com/api/stats/ghumbert?darkmode=true&privacyEmail=true"/>
   </a>
 </p>
-<table align="left" style="left: 300px;">
+<!-- <table align="left">
     <thead>
         <tr>
         <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td>
@@ -40,7 +40,7 @@
           <td style="text-align:center;">Philosophers</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Philosophers"> </td>
         </tr>
         </thead>
-    </table>
+    </table> -->
 <!-- <table style="width: 100%; margin-top: 10px; font-size: 0.8em;" border="1px">
     <tr align="center" >
         <th style="padding:2.5px; width: 10%;" rowspan="2">Item No</th>
@@ -56,3 +56,4 @@
         <th>P.</th>
     </tr>
 </table> -->
+<td><table><tr><td>split 1</td><td>split 2</td></tr></table></td> 
