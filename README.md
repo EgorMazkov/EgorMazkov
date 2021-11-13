@@ -16,15 +16,8 @@
         </tr>
        <tr>
           <td style="text-align:center;">Pipex</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/pipex"> </td>
-        </tr>
-        <tr>
           <td style="text-align:center;">Push_swap</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/push_swap"> </td>
-        </tr>
-      <tr>
           <td style="text-align:center;">Minishell</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/minishell"> </td>
-        </tr>
-         </tr>
-      <tr>
           <td style="text-align:center;">Philosophers</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Philosophers"> </td>
         </tr>
     </thead>
