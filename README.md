@@ -11,13 +11,13 @@
         <tr>
           <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td>
         </tr>
+    </th>
         <tr>
           <td style="text-align:center;">Get_next_line</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/get_next_line"> </td>
         </tr>
         <tr>
           <td style="text-align:center;">Ft_printf</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/ft_printf"> </td>
         </tr>
-    </th>
        <tr>
           <td style="text-align:center;">Born2beroot</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Born2beroot"> </td>
         </tr>
@@ -43,7 +43,7 @@
         </tr>
         </thead>
     </table>
-<!-- <table style="width: 100%; margin-top: 10px; font-size: 0.8em;" border="1px">
+<table style="width: 100%; margin-top: 10px; font-size: 0.8em;" border="1px">
     <tr align="center" >
         <th style="padding:2.5px; width: 10%;" rowspan="2">Item No</th>
         <th style="padding:2.5px; width: 55%;" rowspan="2">DESCRIPTION</th>
@@ -57,4 +57,4 @@
         <th>Rs.</th>
         <th>P.</th>
     </tr>
-</table> -->
+</table>
