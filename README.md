@@ -23,7 +23,7 @@
           <td style="text-align:center;">Push_swapf</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/push_swap"> </td>
         </tr>
          <tr>
-          <td style="text-align:center;">FDF</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/FdF"> </td>
+          <td style="text-align:center;">FDF</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/so_long"> </td>
         </tr>
        <tr>
           <td style="text-align:center;">Pipex</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/pipex"> </td>
@@ -34,14 +34,6 @@
          </tr>
       <tr>
           <td style="text-align:center;">Philosophers</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Philosophers"> </td>
-        </tr>
-        <tr>
-            <tr>
-          <td style="text-align:center;">NetPractice</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/NetPractice"> </td>
-        </tr>
-        <tr>
-            <tr>
-          <td style="text-align:center;">Cub3d</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/cub3d"> </td>
         </tr>
     </thead>
     <tbody>
