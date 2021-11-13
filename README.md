@@ -8,7 +8,7 @@
 <table align="left" style="left: 300px;">
     <thead>
         <tr>
-          <th> <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td> </th>
+          <th style="padding:2.5px; width: 10%;" rowspan="2"> <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td> </th>
         </tr>
         <tr>
           <td style="text-align:center;">Get_next_line</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/get_next_line"> </td>
