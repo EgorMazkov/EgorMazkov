@@ -5,13 +5,13 @@
     <img src="https://badge42.herokuapp.com/api/stats/ghumbert?darkmode=true&privacyEmail=true"/>
   </a>
 </p>
+<table class="left_positoin">
 <style>
     .left_position {
         width: 300px;
         left: 150px;
     }
 </style>
-<table class="left_positoin">
     <thead>
         <tr>
           <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td>
