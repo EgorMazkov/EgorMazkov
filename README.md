@@ -7,7 +7,7 @@
 </p>
 <td>
     <p>
-        <td align="center">
+        <td style="text-align:center;">
             Success project
         </td>
     <table align="center">
