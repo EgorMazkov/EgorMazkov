@@ -6,6 +6,10 @@
   </a>
 </p>
 <style>
+    .left_position {
+        width: 300px;
+        left: 150px;
+    }
 </style>
 <table class="left_positoin">
     <thead>
