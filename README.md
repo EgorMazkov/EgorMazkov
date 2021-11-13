@@ -5,7 +5,9 @@
     <img src="https://badge42.herokuapp.com/api/stats/ghumbert?darkmode=true&privacyEmail=true"/>
   </a>
 </p>
-<table align="left" style="width: 300px; position: relative; ">
+<style>
+</style>
+<table class="left_positoin">
     <thead>
         <tr>
           <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td>
@@ -24,7 +26,7 @@
         </tr>
     </thead>
     </table>
-    <table align="right">
+    <table class="right_positoin">
     <thead>
        <tr>
           <td style="text-align:center;">Pipex</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/pipex"> </td>
