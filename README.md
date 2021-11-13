@@ -8,14 +8,11 @@
 <table align="center">
     <thead>
         <tr>
-          <td style="text-align:center;">Libft</td>
-          <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft">
-          <td style="text-align:center;">Get_next_line</td>
-          <img src="https://badge42.herokuapp.com/api/project/ghumbert/get_next_line">
+          <td style="text-align:center;">Libft</td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft">
+          <tr><td style="text-align:center;">Get_next_line</td><img src="https://badge42.herokuapp.com/api/project/ghumbert/get_next_line">
           </td>
         </tr>
         <tr>
-          
           </td>
         </tr>
         <tr>
