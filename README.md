@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://profile.intra.42.fr/">
-    <img src="https://badge42.herokuapp.com/api/stats/ghumbert?darkmode=true&privacyEmail=true"/>
+    <img src="https://badge42.herokuapp.com/api/stats/ghumbert?darkmode=true&privacyEmail=false"/>
   </a>
 </p>
 <td>
