@@ -7,6 +7,7 @@
 </p>
 <table align="left" style="left: 300px;">
     <thead>
+    <th>
         <tr>
           <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td>
         </tr>
@@ -16,6 +17,7 @@
         <tr>
           <td style="text-align:center;">Ft_printf</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/ft_printf"> </td>
         </tr>
+    </th>
        <tr>
           <td style="text-align:center;">Born2beroot</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Born2beroot"> </td>
         </tr>
