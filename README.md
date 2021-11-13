@@ -20,7 +20,7 @@
             <td style="text-align:center;">Pipex</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/pipex"> </td>
         </tr>
         <tr>
-            <td style="text-align:center;">Push_swap</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/push_swap"> </td>
+            <td style="text-align:center;"><font size="5" color="red" face="Arial">Push_swap</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/push_swap"> </td>
              <td style="text-align:center;">Minishell</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/minishell"> </td>
         </tr>
         <tr>
