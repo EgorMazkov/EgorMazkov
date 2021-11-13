@@ -59,10 +59,8 @@
 <td>
     <table align="center">
         <tr>
-            <td>
                 <td style="text-align:center;">Libft</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td>
                 <td style="text-align:center;">Get_next_line</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/get_next_line"> </td>
-            </td>
             <td>
                 split 2
             </td>
