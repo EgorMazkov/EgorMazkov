@@ -25,7 +25,7 @@
         </tr>
         <tr>
         <td style="text-align:center;"><a href=https://github.com/EgorMazkov/philosophers>Philosophers</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Philosophers"> </td>
-        <td style="text-align:center;"></td> <td></td>
+        <td style="text-align:center;"></td> <td><a href=https://github.com/EgorMazkov/philosophers>Philosophers</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/NetPractice"></td>
         </tr>
     </table>
 </td>
