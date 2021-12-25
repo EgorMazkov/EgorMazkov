@@ -27,5 +27,8 @@
         <td style="text-align:center;"><a href=https://github.com/EgorMazkov/philosophers>Philosophers</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Philosophers"> </td>
         <td style="text-align:center;">NetPractice</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/NetPractice"></td>
         </tr>
+        <tr> 
+            <td style="text-align:center;"><a href=https://github.com/EgorMazkov/cub3d>cub3D</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/cub3d"> </td>
+        </tr>
     </table>
 </td>
