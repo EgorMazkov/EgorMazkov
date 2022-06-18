@@ -30,7 +30,7 @@
         <tr> 
             <td style="text-align:center;"><a href=https://github.com/EgorMazkov/cub3d>cub3D</a></td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2422747"> </td>
             <td style="text-align:center;">
-            <a href="https://github.com/EgorMazkov/cppModule"><img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2543489" alt="CPP Module 08 Piscine" /></a></td>
+            <a href="https://github.com/EgorMazkov/cppModule">cpp Module</a></td> <td><img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2543489" alt="CPP Module 08 Piscine" /></a></td>
         </tr>
         <tr>
   <td style="text-align:center;"><a href="https://github.com/EgorMazkov/ft_irc">ft_irc</a></td> <td><img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2597135" alt="ft_irc" /></a>
