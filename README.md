@@ -8,27 +8,27 @@
 <td>
     <table align="center">
         <tr>
-                <td style="text-align:center;"><a href=https://github.com/EgorMazkov/libft>Libft</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Libft"> </td>
-                <td style="text-align:center;"><a href=https://github.com/EgorMazkov/gnl>Get_next_line</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/get_next_line"> </td>
+                <td style="text-align:center;"><a href=https://github.com/EgorMazkov/libft>Libft</a></td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2156869"> </td>
+                <td style="text-align:center;"><a href=https://github.com/EgorMazkov/gnl>Get_next_line</a></td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2168813"> </td>
         </tr>
         <tr>
-             <td style="text-align:center;"><a href=https://github.com/EgorMazkov/printf>Ft_printf</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/ft_printf"> </td>
+             <td style="text-align:center;"><a href=https://github.com/EgorMazkov/printf>Ft_printf</a></td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2185372"> </td>
              <td style="text-align:center;">Born2beroot</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Born2beroot"> </td>
         </tr>
         <tr>
-            <td style="text-align:center;"><a href=https://github.com/EgorMazkov/so_long>So_long</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/so_long"> </td>
-            <td style="text-align:center;"><a href=https://github.com/EgorMazkov/pipex>Pipex</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/pipex"> </td>
+            <td style="text-align:center;"><a href=https://github.com/EgorMazkov/so_long>So_long</a></td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2269434"> </td>
+            <td style="text-align:center;"><a href=https://github.com/EgorMazkov/pipex>Pipex</a></td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2284368"> </td>
         </tr>
         <tr>
-            <td style="text-align:center;"><a href=https://github.com/EgorMazkov/push_swap>Push_swap</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/push_swap"> </td>
-             <td style="text-align:center;"><a href=https://github.com/EgorMazkov/minishell>Minishell</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/minishell"> </td>
+            <td style="text-align:center;"><a href=https://github.com/EgorMazkov/push_swap>Push_swap</a></td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2245371"> </td>
+             <td style="text-align:center;"><a href=https://github.com/EgorMazkov/minishell>Minishell</a></td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2338698"> </td>
         </tr>
         <tr>
-        <td style="text-align:center;"><a href=https://github.com/EgorMazkov/philosophers>Philosophers</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Philosophers"> </td>
-        <td style="text-align:center;">NetPractice</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/NetPractice"></td>
+        <td style="text-align:center;"><a href=https://github.com/EgorMazkov/philosophers>Philosophers</a></td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2387651"> </td>
+        <td style="text-align:center;">NetPractice</a></td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2422748"></td>
         </tr>
         <tr> 
-            <td style="text-align:center;"><a href=https://github.com/EgorMazkov/cub3d>cub3D</a></td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/cub3d"> </td>
+            <td style="text-align:center;"><a href=https://github.com/EgorMazkov/cub3d>cub3D</a></td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2422747"> </td>
         </tr>
     </table>
 </td>
