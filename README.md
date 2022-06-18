@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://profile.intra.42.fr/">
-    <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/stats?cursusId=21&coalitionId=98">
+    <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/stats?cursusId=21&coalitionId=98" alt="ghumbert's 42 stats" />
   </a>
 </p>
 <td>
