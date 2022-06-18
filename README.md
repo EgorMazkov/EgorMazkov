@@ -13,7 +13,7 @@
         </tr>
         <tr>
              <td style="text-align:center;"><a href=https://github.com/EgorMazkov/printf>Ft_printf</a></td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2185372"> </td>
-             <td style="text-align:center;">Born2beroot</td> <td> <img src="https://badge42.herokuapp.com/api/project/ghumbert/Born2beroot"> </td>
+             <td style="text-align:center;">Born2beroot</td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2216668"> </td>
         </tr>
         <tr>
             <td style="text-align:center;"><a href=https://github.com/EgorMazkov/so_long>So_long</a></td> <td> <img src="https://badge42.vercel.app/api/v2/cl4jr0s44003009lgj32ctpan/project/2269434"> </td>
